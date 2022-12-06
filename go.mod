@@ -1,3 +1,3 @@
-module github.com/gosuri/uilive
+module github.com/atrbgithub/uilive
 
 go 1.10
